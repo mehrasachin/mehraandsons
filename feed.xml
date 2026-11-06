@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Mehra &amp; Sons</title>
+  <link>https://mehraandsons.com/</link>
+  <atom:link href="https://mehraandsons.com/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>A father who wrote LISP in 1991 and two sons who grew up with AI, building the same company and arguing about it in public.</description>
+  <language>en-in</language>
+  <item>
+    <title>Arre O Sambha, Kitne Prompts The?</title>
+    <link>https://mehraandsons.com/kitne-prompts-the/</link>
+    <guid isPermaLink="true">https://mehraandsons.com/kitne-prompts-the/</guid>
+    <pubDate>Sat, 07 Nov 2026 03:00:00 +0000</pubDate>
+    <description>Old dog. New tricks. Two hundred prompts. Sachin Mehra on going back to building at 54, with AI.</description>
+  </item>
+</channel>
+</rss>
